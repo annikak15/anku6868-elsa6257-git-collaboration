@@ -1,3 +1,7 @@
 användare: annikak15
 namn: Annika Kuusrainen
 Epost: annika.kuusrainen.6868@student.uu.se
+
+Användare på GitHub: ellica03
+Namn: Ellica Sandegren
+Epost: ellia.sandegren.6257@student.uu.se
